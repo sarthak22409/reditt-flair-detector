@@ -13,3 +13,4 @@ I took following steps to build this project
 - vector_representation.csv contains vector representation of headlines in mour word corpus(as it is time consuming to find vector representaion of each and every word i stored it in csv file)
 - data1.csv contains all the data
 - df2.csv contains all the data after preprocessing of data 
+- i even included a snip of my web app in repository
